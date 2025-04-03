@@ -18,7 +18,7 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Starboihacks369/SpamX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shoaib910385/SpamX)
 
 
 # ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
